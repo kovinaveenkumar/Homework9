@@ -2,18 +2,12 @@
 
 ---
 
-## GitHub Action Status
+## Docker
 
-![GitHub Actions Status](https://github.com/JaswanthKSnjit/homework9/actions/workflows/production.yml/badge.svg)
-
----
-
-## VS Code terminal
-
-![terminal](terminal.png)
+![docker](docker.png)
 
 ---
 
-## QR Code Manager
+## Github Actions
 
-![qr-code-manager](QR-Code-Manager.png)
+![github-actions](github-actions.png)
